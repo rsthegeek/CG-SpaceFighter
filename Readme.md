@@ -1,5 +1,7 @@
-# Space Fighter
-Space Fighter is a arcade game which you have to eliminate invader (red) spaceship, but first you have to kill the aliens!
-- killing each alien will bring you 10 scores and there is 50 aliens, so the maximum score is 500.
+# Computer Graphics Final Project - Space Fighter Game
 
-After eliminating the invader spaceship you will face with the games easter egg! so try to eliminate the spaceship and see it your self!
+As a final project for my computer graphics bachelor's degree class, I created a thrilling arcade game called Space Fighter. The objective of the game is to eliminate the invader (red) spaceship by first destroying the aliens that stand in your way.
+
+- You can earn 10 points for each alien you defeat, and there are a total of 50 aliens, making the maximum score attainable 500.
+
+Upon successfully eliminating the invader spaceship, players are rewarded with a special Easter egg that can be discovered by playing the game. So, come and experience the thrill of Space Fighter and uncover the hidden surprise for yourself!
